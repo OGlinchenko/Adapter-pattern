@@ -1,0 +1,5 @@
+|-- /src
+    |-- adapter.js
+|-- .gitignore
+|-- package.json
+|-- README.md
