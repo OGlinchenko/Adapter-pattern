@@ -1,0 +1,11 @@
+{
+  "name": "adapter-pattern",
+  "version": "1.0.0",
+  "description": "A simple implementation of the Adapter pattern",
+  "main": "src/adapter.js",
+  "scripts": {
+    "start": "node src/adapter.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
